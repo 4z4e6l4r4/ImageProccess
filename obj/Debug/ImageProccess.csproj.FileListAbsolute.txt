@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\obj\Debug\ImageProccess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\obj\Debug\ImageProccess.Form1.resources
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\obj\Debug\ImageProccess.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\obj\Debug\ImageProccess.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\obj\Debug\ImageProccess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\bin\Debug\ImageProccess.exe.config
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\bin\Debug\ImageProccess.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\bin\Debug\ImageProccess.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\obj\Debug\ImageProccess.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ImageProccess\obj\Debug\ImageProccess.pdb
